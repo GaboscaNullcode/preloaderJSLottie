@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://GaboscaNullcode.github.io/preloaderJSLottie/a',
+        path: 'https://GaboscaNullcode.github.io/preloaderJSLottie/Animation - 1719270752051.json',
     });
 }
 
